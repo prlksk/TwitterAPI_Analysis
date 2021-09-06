@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 import re
 
 root = Tk()
-root.title('Twitter Sentimental Analiz 5303-5304')  # Başlık
+root.title('Twitter Sentimental Analysis by Piril')  # Başlık
 
 # ================GUI Boyutlandırma Başlangıcı =================#
 width = 600
