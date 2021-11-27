@@ -75,10 +75,10 @@ def click():
     hash_name = hash_value.get()
 
     # ============================twitter API keys===========================
-    consumerKey = "gMTopCcYePuGPoSfhvEjDssl2"
-    consumerSecret = "4BbsJc27IU5aOiQgTftU4NHpx1qAt9dAr64N58KGI3DDpiKtrU"
-    accessToken = "1370806976129679361-EzQkJQ18EvNQ0cgXxGmUnjitK6xnnS"
-    accessTokenSecret = "ggWgxfZViMUq2fy8d0mStDryD5CqnmhjPJhKqPYYySvrS"
+    consumerKey = ""
+    consumerSecret = ""
+    accessToken = ""
+    accessTokenSecret = ""
 
     # ============================twitter API keys ===========================
 
